@@ -1,0 +1,163 @@
+# Competitor Review Mining — Creative Brief
+
+**Generated:** 04 March 2026  
+**Source URL:** https://amazon.co.uk/dp/B0GBW8SBZP  
+**Reviews analysed:** 20  
+
+---
+
+## Executive Summary
+
+Buyers of this product are predominantly women in their late 30s-40s seeking visible, credible skin improvement after years of product disappointment. The dominant emotional arc is scepticism overcome by results — they hesitate on price, push past an initial adjustment period, and then become evangelical advocates. The #1 unmet need is durability: customers want proof that results persist. The brand's biggest vulnerability is operational (packaging, customer service), not formulation. Ad copy should lead with transformation proof, use before/after language authentically, and borrow the 'someone else noticed' validation frame — it is the most emotionally resonant signal in the corpus.
+
+---
+
+## Star Rating Distribution
+
+| Stars | Count | Distribution |
+|-------|-------|--------------|
+| ★★★★★ | 1 | `██████████░░░░░░░░░░` |
+| ★★★★ | 0 | `░░░░░░░░░░░░░░░░░░░░` |
+| ★★★ | 0 | `░░░░░░░░░░░░░░░░░░░░` |
+| ★★ | 1 | `██████████░░░░░░░░░░` |
+| ★ | 0 | `░░░░░░░░░░░░░░░░░░░░` |
+
+---
+
+## Pain Points
+
+_Recurring frustrations and unmet needs — your opportunity gaps._
+
+### 1. Pump dispenser failures
+**Frequency:** ~4 reviews  
+
+Multiple customers report the pump seizing or clogging, leaving product inaccessible.
+
+**Customer voice:**
+> "pump completely seized"
+> "had to cut open the bottle"
+> "clogged after 3 weeks"
+
+### 2. Results plateau after weeks
+**Frequency:** ~3 reviews  
+
+Initial improvements level off, raising doubts about long-term efficacy.
+
+**Customer voice:**
+> "improvement plateaued"
+> "only works while using it"
+> "results reversed when I ran out"
+
+### 3. Poor customer service
+**Frequency:** ~2 reviews  
+
+Unresponsive support and dismissive refund processes frustrate dissatisfied buyers.
+
+**Customer voice:**
+> "three ignored emails"
+> "dismissive chat response"
+> "threatened a chargeback"
+
+---
+
+## Praise Themes
+
+_What customers love — validate, mirror, and amplify these in your ads._
+
+### 1. Visible results in days
+**Frequency:** ~7 reviews  
+
+Customers see noticeable texture and radiance improvements within 1–2 weeks.
+
+**Customer voice:**
+> "noticeable difference in just 10 days"
+> "skin looks more awake"
+> "clearer and brighter"
+
+### 2. Third-party validation
+**Frequency:** ~5 reviews  
+
+Partners, friends and colleagues notice changes unprompted — a powerful social proof signal.
+
+**Customer voice:**
+> "husband noticed without me telling him"
+> "three people asked what I changed"
+> "my mum loves it"
+
+### 3. Sensitive skin compatible
+**Frequency:** ~3 reviews  
+
+Rare formulation that works for reactive skin types without triggering flare-ups.
+
+**Customer voice:**
+> "absolutely no reaction"
+> "finally something for sensitive skin"
+> "did a patch test first"
+
+---
+
+## Language Patterns
+
+_Verbatim vocabulary and emotional registers to borrow directly in copy._
+
+### 1. Before/after transformation framing
+**Emotional register:** `aspirational`  
+
+**Examples from reviews:**
+- "my skin was always looking dull"
+- "now I genuinely look more awake"
+- "used to suffer from"
+- "this proved me wrong"
+
+### 2. Confidence and identity restoration
+**Emotional register:** `relief`  
+
+**Examples from reviews:**
+- "feel like myself again"
+- "confidence back"
+- "never thought I would say"
+- "feel much more confident going without foundation"
+
+### 3. Social proof and peer validation
+**Emotional register:** `trust`  
+
+**Examples from reviews:**
+- "I recommended it to four friends"
+- "our little group obsession"
+- "passed a bottle on to two friends"
+- "our benchmark — if someone else notices"
+
+### 4. Investment justification
+**Emotional register:** `trust`  
+
+**Examples from reviews:**
+- "worth every penny"
+- "the price made me hesitate"
+- "cheaper alternatives delivered nothing"
+- "real deal"
+
+---
+
+## Strategic Recommendations for Ad Copy
+
+Based on the analysis above, prioritise the following angles:
+
+1. **Address the #1 pain point upfront** — _Pump dispenser failures_  
+   Open hooks should immediately signal that your product solves what competitors fail at: Multiple customers report the pump seizing or clogging, leaving product inaccessible.
+
+2. **Lead with the strongest benefit** — _Visible results in days_  
+   Mirror the exact language customers use when they're delighted: "noticeable difference in just 10 days", "skin looks more awake"
+
+3. **Use aspirational framing** — customers are buying an outcome, not a product.  
+   Lift phrases like: "my skin was always looking dull", "now I genuinely look more awake"
+
+4. **Social proof integration** — Verified purchase counts and helpful-vote leaders signal trustworthiness; reflect this credibility in ad testimonials.
+
+5. **A/B test angles:**
+   - Pain-led hook vs. benefit-led hook
+   - Transformation story vs. feature-focused
+   - Question opener vs. statement opener
+
+---
+
+_Brief auto-generated by the competitor review mining pipeline._
